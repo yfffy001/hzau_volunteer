@@ -1,0 +1,75 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/my/my",
+    "pages/myShare/myShare",
+    "pages/changePhone/changePhone",
+    "pages/checkIdentify/checkIdentify",
+    "pages/information/information",
+    "pages/personInfo/setPassword",
+    "pages/personInfo/updatePhone",
+    "pages/activityDetail/activityDetail",
+    "pages/activity/activity",
+    "pages/commit/commit",
+    "pages/commitShare/commitShare",
+    "pages/personInfo/updateMail",
+    "pages/personDetail/personDetail",
+    "pages/identify/identify",
+    "pages/updateOrganize/updateOrganize",
+    "pages/checkEmail/checkEmail",
+    "pages/checkNumber/checkNumber",
+    "pages/updatePhone/updatePhone",
+    "pages/publish/publish",
+    "pages/concern/concern",
+    "pages/published activity/published activity",
+    "pages/pactivitydetail/pactivitydetail",
+    "pages/myShareDetail/myShareDetail",
+    "pages/updateShare/updateShare",
+    "pages/reg/reg"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "狮山公益",
+    "navigationBarBackgroundColor": "#06c05f",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#ADADAD",
+    "selectedColor": "#06c05f",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/index.png",
+        "selectedIconPath": "./static/index-choice.png"
+      },
+      {
+        "pagePath": "pages/concern/concern",
+        "text": "关注",
+        "iconPath": "static/heart.png",
+        "selectedIconPath": "./static/heart-choice.png"
+      },
+      {
+        "pagePath": "pages/commit/commit",
+        "text": "志愿圈",
+        "iconPath": "static/circle.png",
+        "selectedIconPath": "./static/circle-choice.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/my.png",
+        "selectedIconPath": "./static/my-choice.png"
+      }
+    ]
+  },
+  "requiredPrivateInfos": [
+    "chooseLocation",
+    "getLocation"
+  ],
+  "usingComponents": {}
+}

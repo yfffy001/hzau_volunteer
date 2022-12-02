@@ -1,0 +1,74 @@
+
+.content.data-v-57280228 {
+	background-color: white;
+	width: 92%;
+	margin: 20rpx auto;
+	border-radius: 10rpx;
+}
+.gridcss.data-v-57280228{
+	width: 90%;
+	margin: 0 auto;
+	padding: 20rpx 0;
+	text-align: center;
+}
+.icon-pdongtai.data-v-57280228{
+	color: orange;
+}
+.icon-activity.data-v-57280228{
+	color: red;
+}
+.icon-publish.data-v-57280228{
+	color: #E80080;
+}
+.icon.data-v-57280228{
+	margin-top: 15rpx;
+	font-size: 60rpx;
+}
+.service.data-v-57280228{
+	width: 91.5%;
+	font-size: 30rpx;
+	font-weight: 600;
+	margin-left: 35rpx;
+}
+.activitycss.data-v-57280228{
+	width: 92%;
+	background-color: white;
+	margin: 20rpx auto;
+	padding-bottom: 20rpx;
+	border-radius: 10rpx;
+}
+.total.data-v-57280228{
+	display: flex;
+	flex-wrap: wrap;
+	width: 92%;
+	margin: 0 auto;
+	padding: 20rpx 0;
+	border-bottom: 2rpx solid #EEEEEE;
+	margin-top: 10rpx;
+	align-items: flex-start;
+}
+.name.data-v-57280228 {
+	font-size: 30rpx;
+	font-weight: 600;
+	width: 100%
+}
+.duration.data-v-57280228 {
+	color: orangered;
+	font-size: 20rpx;
+	background-color: bisque;
+	margin-left: 5rpx;
+}
+.time.data-v-57280228 {
+	font-size: 25rpx;
+	color: #BBBBBB;
+	margin-left: 100rpx;
+	margin-top: 5rpx;
+}
+.info.data-v-57280228 {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	margin-top: 10rpx;
+}
+
+

@@ -1,0 +1,41 @@
+
+.myInfo.data-v-8082b174{
+	background-color: white;
+	width: 92%;
+	margin: 20rpx auto;
+	border-radius: 10rpx;
+	padding-bottom: 20rpx;
+}
+.all.data-v-8082b174{
+	margin: 30rpx;
+	border-bottom: 2rpx solid #EEEEEE;
+	display: flex;
+	flex-wrap: nowrap;
+}
+.left.data-v-8082b174{
+	margin-bottom: 30rpx;
+	margin-right: 100rpx;
+	width: 200rpx;
+}
+.three.data-v-8082b174{
+	background-color: white;
+	width: 92%;
+	border-radius: 10rpx;
+	padding: 20rpx 0;
+	margin: 20rpx auto;
+}
+.uni-list-cell-db.data-v-8082b174{
+	-webkit-transform: translateY(-10rpx);
+	        transform: translateY(-10rpx);
+}
+.btn.data-v-8082b174{
+	background-color: orange;
+	font-size: 28rpx;
+	width: 160rpx;
+	height: 70rpx;
+	line-height: 70rpx;
+	color: white;
+	font-weight: 600;
+	margin-top: 20rpx;
+}
+

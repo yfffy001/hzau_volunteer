@@ -1,0 +1,138 @@
+
+.center.data-v-0be17cc6 {
+		flex-direction: column;
+}
+.logo.data-v-0be17cc6 {
+		width: 750rpx;
+		height: 240rpx;
+		padding: 20rpx;
+		box-sizing: border-box;
+		background-color:  #06c05f;
+		flex-direction: row;
+		align-items: center;
+}
+.logo-hover.data-v-0be17cc6 {
+		opacity: 0.8;
+}
+.logo-img.data-v-0be17cc6 {
+		width: 120rpx;
+		height: 120rpx;
+		border-radius: 150rpx;
+}
+.logo-title.data-v-0be17cc6 {
+		height: 150rpx;
+		flex: 1;
+		align-items: center;
+		justify-content: space-between;
+		flex-direction: row;
+		margin-left: 20rpx;
+		margin-top: 50rpx;
+		font-size: 50rpx;
+		font-weight: 600;
+}
+.uer-name.data-v-0be17cc6 {
+		height: 60rpx;
+		line-height: 60rpx;
+		color: #FFFFFF;
+}
+.go-login.navigat-arrow.data-v-0be17cc6 {
+		color: #FFFFFF;
+}
+.login-title.data-v-0be17cc6 {
+		height: 150rpx;
+		align-items: self-start;
+		justify-content: center;
+		flex-direction: column;
+		margin-left: 20rpx;
+}
+.header.data-v-0be17cc6{
+	width: 92%;
+	background-color: #ffd33f;
+	margin: 30rpx auto;
+	border-radius: 10rpx;
+}
+.header image.data-v-0be17cc6{
+	width: 150rpx;
+	height: 150rpx;
+	margin: 35rpx;
+	border-radius: 50%;
+	border: 10rpx #FFB400 solid;
+	position: relative;
+}
+.myphone.data-v-0be17cc6{
+	position: absolute;
+	top: 80rpx;
+	left: 300rpx;
+	font-size: 35rpx;
+}
+.mygender.data-v-0be17cc6{
+	position: absolute;
+	top: 150rpx;
+	left: 300rpx;
+	font-size: 35rpx;
+}
+.containerBox.data-v-0be17cc6{
+	display: flex;
+	width: 100%;
+	margin-bottom: 20rpx;
+	justify-content: space-around;
+}
+.containerBox-icon.data-v-0be17cc6{
+	display: flex;
+	width: 100%;
+	margin-top: 20rpx;
+	text-align: center;
+	font-size: 40rpx;
+	justify-content: space-around;
+}
+.containerBox-badge.data-v-0be17cc6{
+	display: flex;
+	width: 100%;
+	margin-top: 20rpx;
+	justify-content: space-around;
+}
+.icon-shanchu.data-v-0be17cc6{
+	position: absolute;
+	right: 0;
+	top: -10;
+	color: red;
+}
+.twocon.data-v-0be17cc6{
+	 display: flex; 
+	 flex-wrap: nowrap;
+	 margin-top: 20rpx;
+}
+.mylist.data-v-0be17cc6{
+	width: 92%;
+	margin: 30rpx auto;
+	background-color: white;
+	border-radius: 10rpx;
+}
+.six.data-v-0be17cc6{
+	width: 92%;
+	margin: 30rpx auto;
+	border-radius: 10rpx;
+	padding-bottom: 10rpx;
+	background-color: white;
+}
+.icon.data-v-0be17cc6{
+	font-size: 60rpx;
+}
+.icon-paimai3.data-v-0be17cc6,.icon-huodong.data-v-0be17cc6{
+	font-size: 55rpx;
+	-webkit-transform: translateY(10rpx);
+	        transform: translateY(10rpx);
+}
+.none.data-v-0be17cc6{
+	width: 100%;
+	height: 5rpx;
+}
+.one.data-v-0be17cc6{
+	font-size: 30rpx;
+	font-weight: 600;
+	border-bottom: 2rpx solid #EEEEEE;
+}
+.mytext.data-v-0be17cc6{
+	margin: 30rpx;
+}
+

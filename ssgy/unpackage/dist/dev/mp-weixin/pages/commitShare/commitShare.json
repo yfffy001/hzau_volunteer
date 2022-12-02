@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "分享动态",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "comtarbar": "/components/comtarbar/comtarbar"
+  }
+}

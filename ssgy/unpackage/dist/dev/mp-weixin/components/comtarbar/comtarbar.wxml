@@ -1,0 +1,1 @@
+<view class="combox data-v-0029f1a4"><view data-event-opts="{{[['tap',[['goback',['$event']]]]]}}" class="left data-v-0029f1a4" bindtap="__e"></view><view class="center data-v-0029f1a4"><slot name="center"></slot></view><view class="right data-v-0029f1a4"><slot name="right"></slot></view></view>

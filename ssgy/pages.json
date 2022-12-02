@@ -1,0 +1,226 @@
+{
+	"pages": [{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "狮山公益",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path": "pages/myShare/myShare",
+			"style": {
+				"navigationBarTitleText": "我的动态",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/changePhone/changePhone",
+			"style": {
+				"navigationBarTitleText": "更换手机号"
+			}
+		},
+		{
+			"path": "pages/checkIdentify/checkIdentify",
+			"style": {
+				"navigationBarTitleText": "认证用户信息"
+			}
+		},
+		{
+			"path": "pages/information/information",
+			"style": {
+				"navigationBarTitleText": "个人资料设置"
+			}
+		},
+		{
+			"path": "pages/personInfo/setPassword",
+			"style": {
+				"navigationBarTitleText": "设置密码"
+			}
+		},
+		{
+			"path": "pages/personInfo/updatePhone",
+			"style": {
+				"navigationBarTitleText": "修改手机号"
+			}
+		},
+		{
+			"path": "pages/activityDetail/activityDetail",
+			"style": {
+				"navigationBarTitleText": "活动详情",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/activity/activity",
+			"style": {
+				"navigationBarTitleText": "活动",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/commit/commit",
+			"style": {
+				"navigationBarTitleText": "志愿圈",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/commitShare/commitShare",
+			"style": {
+				"navigationBarTitleText": "分享动态",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/personInfo/updateMail",
+			"style": {
+				"navigationBarTitleText": "修改邮箱"
+			}
+		},
+		{
+			"path": "pages/personDetail/personDetail",
+			"style": {
+				"navigationBarTitleText": "我的认证资料"
+			}
+		},
+		{
+			"path": "pages/identify/identify",
+			"style": {
+				"navigationBarTitleText": "身份认证"
+			}
+		},
+		{
+			"path": "pages/updateOrganize/updateOrganize",
+			"style": {
+				"navigationBarTitleText": "修改机构"
+			}
+		},
+
+		{
+			"path": "pages/checkEmail/checkEmail",
+			"style": {
+				"navigationBarTitleText": "绑定手机号"
+			}
+		},
+		{
+			"path": "pages/checkNumber/checkNumber",
+			"style": {
+				"navigationBarTitleText": "验证"
+			}
+		},
+		{
+
+			"path": "pages/updatePhone/updatePhone",
+			"style": {
+				"navigationBarTitleText": "修改手机号"
+			}
+		},
+		{
+			"path": "pages/publish/publish",
+			"style": {
+				"navigationBarTitleText": "发布活动",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/concern/concern",
+			"style": {
+				"navigationBarTitleText": "我的关注",
+				"enablePullDownRefresh": true
+			}
+
+		},
+		{
+			"path": "pages/published activity/published activity",
+			"style": {
+				"navigationBarTitleText": "我的发布",
+				"enablePullDownRefresh": true
+			}
+
+		},
+		{
+			"path": "pages/pactivitydetail/pactivitydetail",
+			"style": {
+				"navigationBarTitleText": "活动详情",
+				"enablePullDownRefresh": true
+			}
+
+		},
+		{
+			"path": "pages/myShareDetail/myShareDetail",
+			"style": {
+				"navigationBarTitleText": "详情",
+				"enablePullDownRefresh": true
+			}
+
+		},
+		{
+			"path": "pages/updateShare/updateShare",
+			"style": {
+				"navigationBarTitleText": "更新动态",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/reg/reg",
+			"style": {
+				"navigationBarTitleText": "注册",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "狮山公益",
+		"navigationBarBackgroundColor": "#06c05f",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#ADADAD",
+		"selectedColor": "#06c05f",
+		"backgroundColor": "#FFFFFF",
+		"borderStyle": "black",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/index.png",
+				"selectedIconPath": "./static/index-choice.png"
+			},
+			{
+				"pagePath": "pages/concern/concern",
+				"text": "关注",
+				"iconPath": "static/heart.png",
+				"selectedIconPath": "./static/heart-choice.png"
+			},
+			{
+				"pagePath": "pages/commit/commit",
+				"text": "志愿圈",
+				"iconPath": "static/circle.png",
+				"selectedIconPath": "./static/circle-choice.png"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"text": "我的",
+				"iconPath": "static/my.png",
+				"selectedIconPath": "./static/my-choice.png"
+			}
+		]
+	}
+}

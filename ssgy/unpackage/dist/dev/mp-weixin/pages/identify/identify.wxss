@@ -1,0 +1,71 @@
+
+.all.data-v-0af94406{
+	margin: 30rpx;
+	border-bottom: 2rpx solid #EEEEEE;
+	display: flex;
+	flex-wrap: nowrap;
+}
+.left.data-v-0af94406{
+	margin-bottom: 30rpx;
+	margin-right: 100rpx;
+	width: 200rpx;
+}
+.popImage.data-v-0af94406{
+	width:692rpx;
+	height: 400rpx;
+	margin: 20rpx auto;
+	background-color: white;
+	text-align: center;
+	border-radius: 10rpx;
+	padding-bottom: 10rpx;
+}
+.icon-shanchu.data-v-0af94406{
+	position: absolute;
+	right: 0;
+	top: -10;
+	color: red;
+}
+.uni-uploader__file.data-v-0af94406{
+	position: relative;
+}
+.popImage.data-v-0af94406{
+	height: 400rpx;
+	display: flex;
+	flex-wrap: wrap;
+}
+.popImage input.data-v-0af94406{
+	width: 100%;
+	border: #C0C0C0 1px solid;
+	padding: 5rpx 0;
+}
+.cell-pd.data-v-0af94406 {
+	padding: 22rpx 30rpx;
+}
+.btn.data-v-0af94406{
+	background-color: #06c05f;
+	font-size: 28rpx;
+	width: 160rpx;
+	height: 70rpx;
+	line-height: 70rpx;
+	margin-top: 40rpx;
+	color: white;
+	font-weight: 600;
+}
+.uploadBox.data-v-0af94406{
+	margin: 30rpx;
+	font-size: 30rpx;
+	font-weight: 500;
+	background-color: white;
+}
+.three.data-v-0af94406{
+	background-color: white;
+	width: 92%;
+	border-radius: 10rpx;
+	padding: 20rpx 0;
+	margin: 20rpx auto;
+}
+.myspan.data-v-0af94406{
+	color: #BBBBBB;
+	margin-left: 20rpx;
+}
+
